@@ -1,0 +1,4 @@
+@startuml
+title test
+Alice -> Bob : message 1
+@enduml
